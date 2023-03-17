@@ -22,4 +22,4 @@ Você também pode personalizar as animações para atender às suas necessidade
 Agradecemos por utilizar a biblioteca animatio.css!
 
 Artigo na <a href="https://medium.com/@sanzio.raphael/vamos-falar-sobre-anima%C3%A7%C3%B5es-em-css-com-animatio-css-1e0499a80c4c">Medium</a>
-Artigo no <a href="">StackOverflow</a>
+Artigo no <a href="https://pt.stackoverflow.com/questions/579999/uma-biblioteca-de-anima%c3%a7%c3%b5es-em-css/580000#580000">StackOverflow</a>
