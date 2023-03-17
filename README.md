@@ -1,4 +1,5 @@
 </br>
+<a href="https://sanzioraphael.github.io/Animatio.css/">Animatio.css</a>
 </br>
 <h1>Documentação da Biblioteca animatio.css</h1></br>
 A biblioteca animatio.css é uma coleção de 72 animações em CSS, desenvolvida por Raphael Sanzio. Ela permite o controle da animação, duração, repetição e direção. A duração pode variar de 1 segundo até 20 segundos, e a repetição pode ser de 1x, 2x, 3x, 5x, 10x ou 20x. As opções de direção incluem reverse, normal, alternate reverse, alternate, both, backwards e forwards.
