@@ -20,3 +20,6 @@ Para definir a direção da animação, adicione a classe anima-direction- segui
 Você também pode personalizar as animações para atender às suas necessidades específicas. Para fazer isso, basta usar o editor em tempo real disponível em nosso site, que permite que você escolha as classes desejadas e copie-as para o seu projeto.
 
 Agradecemos por utilizar a biblioteca animatio.css!
+
+Artigo na <a href="https://medium.com/@sanzio.raphael/vamos-falar-sobre-anima%C3%A7%C3%B5es-em-css-com-animatio-css-1e0499a80c4c">Medium</a>
+Artigo no <a href="">StackOverflow</a>
