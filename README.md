@@ -16,7 +16,7 @@ Se você quiser que a animação se repita, adicione a classe anima-repeat- segu
 <h3>Direção</h3>
 Para definir a direção da animação, adicione a classe anima-direction- seguida de uma das opções de direção disponíveis. Por exemplo, se você quiser que a animação seja executada em sentido normal, adicione a classe anima-direction-normal ao seu elemento HTML.
 
-<h3>Personalização de Combos</h3>
+<h3><a href="https://sanzioraphael.github.io/Animatio.css/">Personalização de Combos</a></h3>
 Você também pode personalizar as animações para atender às suas necessidades específicas. Para fazer isso, basta usar o editor em tempo real disponível em nosso site, que permite que você escolha as classes desejadas e copie-as para o seu projeto.
 
 Agradecemos por utilizar a biblioteca animatio.css!
