@@ -1,3 +1,5 @@
+CDN: https://cdn.jsdelivr.net/gh/SanzioRaphael/Animatio.css@8affa72feb8ddce70aae866a3b275435160857f3/lib/animatio.min.css
+</br></br>
 </br>
 <a href="https://sanzioraphael.github.io/Animatio.css/">Assista ao Vivo | Animatio.css</a>
 </br>
