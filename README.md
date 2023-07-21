@@ -4,7 +4,7 @@ CDN: https://cdn.jsdelivr.net/gh/SanzioRaphael/Animatio.css@8affa72feb8ddce70aae
 <a href="https://sanzioraphael.github.io/Animatio.css/">Assista ao Vivo | Animatio.css</a>
 </br>
 <h1>Documentação da Biblioteca animatio.css</h1></br>
-A biblioteca animatio.css é uma coleção de 72 animações em CSS, desenvolvida por Raphael Sanzio. Ela permite o controle da animação, duração, repetição e direção. A duração pode variar de 1 segundo até 20 segundos, e a repetição pode ser de 1x, 2x, 3x, 5x, 10x ou 20x. As opções de direção incluem reverse, normal, alternate reverse, alternate, both, backwards e forwards.
+A biblioteca animatio.css é uma coleção de 72 animações em CSS. Ela permite o controle da animação, duração, repetição e direção. A duração pode variar de 1 segundo até 20 segundos, e a repetição pode ser de 1x, 2x, 3x, 5x, 10x ou 20x. As opções de direção incluem reverse, normal, alternate reverse, alternate, both, backwards e forwards.
 
 <h3>Como usar</h3>
 Para aplicar uma animação em um elemento HTML, basta adicionar a classe correspondente com o prefixo anima-. Por exemplo, se você quiser aplicar a animação chamada "bounce", adicione a classe anima-bounce ao seu elemento HTML.
@@ -20,7 +20,3 @@ Para definir a direção da animação, adicione a classe anima-direction- segui
 
 <h3><a href="https://sanzioraphael.github.io/Animatio.css/">Personalização de Combos</a></h3>
 Você também pode personalizar as animações para atender às suas necessidades específicas. Para fazer isso, basta usar o editor em tempo real disponível em nosso site, que permite que você escolha as classes desejadas e copie-as para o seu projeto.
-
-Agradecemos por utilizar a biblioteca animatio.css!
-
-Artigo na <a href="https://medium.com/@sanzio.raphael/vamos-falar-sobre-anima%C3%A7%C3%B5es-em-css-com-animatio-css-1e0499a80c4c">Medium</a>
